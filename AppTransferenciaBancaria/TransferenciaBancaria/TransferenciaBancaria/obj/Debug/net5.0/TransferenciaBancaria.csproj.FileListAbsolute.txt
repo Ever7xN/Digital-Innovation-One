@@ -1,0 +1,16 @@
+D:\WorkSpaceDotNet\AppTransferenciaBancaria\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.csproj.AssemblyReference.cache
+D:\WorkSpaceDotNet\AppTransferenciaBancaria\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaceDotNet\AppTransferenciaBancaria\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.AssemblyInfoInputs.cache
+D:\WorkSpaceDotNet\AppTransferenciaBancaria\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.AssemblyInfo.cs
+D:\WorkSpaceDotNet\AppTransferenciaBancaria\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.csproj.CoreCompileInputs.cache
+D:\WorkSpaceDotNet\AppTransferenciaBancaria\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.exe
+D:\WorkSpaceDotNet\AppTransferenciaBancaria\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.deps.json
+D:\WorkSpaceDotNet\AppTransferenciaBancaria\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.runtimeconfig.json
+D:\WorkSpaceDotNet\AppTransferenciaBancaria\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.runtimeconfig.dev.json
+D:\WorkSpaceDotNet\AppTransferenciaBancaria\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.dll
+D:\WorkSpaceDotNet\AppTransferenciaBancaria\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\ref\TransferenciaBancaria.dll
+D:\WorkSpaceDotNet\AppTransferenciaBancaria\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.pdb
+D:\WorkSpaceDotNet\AppTransferenciaBancaria\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.dll
+D:\WorkSpaceDotNet\AppTransferenciaBancaria\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\ref\TransferenciaBancaria.dll
+D:\WorkSpaceDotNet\AppTransferenciaBancaria\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.pdb
+D:\WorkSpaceDotNet\AppTransferenciaBancaria\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.genruntimeconfig.cache
